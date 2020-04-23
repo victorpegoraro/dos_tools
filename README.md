@@ -4,9 +4,12 @@ DOS tool using python
 Important: This project is to learn propose.
 
 Install LIB:
+
 scapy
+
 colorama
 
+------------------------------------
 Tools in this project:
 
 1 - TCP scan   
