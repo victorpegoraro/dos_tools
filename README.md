@@ -37,5 +37,5 @@ Tools in this project:
  send HTTP packets to server
  
 -------------------------------------------- 
-! Dont send packts for attack other servers
+Just send packts for your servers !
 
